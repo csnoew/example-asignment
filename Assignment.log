@@ -1,0 +1,388 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2022.1.10)  25 JAN 2022 09:40
+entering extended mode
+**./Assignment.tex
+(Assignment.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.s
+ty (C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count187
+\l__pdf_internal_box=\box47
+))
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count188
+\l__lipsum_a_int=\count189
+\l__lipsum_b_int=\count190
+
+LaTeX3 Info: Defining command \LipsumPar with sig. 'm' on line 175.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemStart with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListStart with sig. 's+m' on line
+(LaTeX3)     208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemEnd with sig. 's+m' on line
+(LaTeX3)     208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListEnd with sig. 's+m' on line
+(LaTeX3)     208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemSurrounders with sig.
+(LaTeX3)     's+m+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListSurrounders with sig. 's+m+m'
+(LaTeX3)     on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemSeparator with sig. 's+m'
+(LaTeX3)     on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemStart with sig. 's+m'
+(LaTeX3)     on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListStart with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemEnd with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListEnd with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemSurrounders with sig.
+(LaTeX3)     's+m+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListSurrounders with sig.
+(LaTeX3)     's+m+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemSeparator with sig.
+(LaTeX3)     's+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumDefault with sig. 'm' on line 214.
+
+
+LaTeX3 Info: Defining command \lipsum with sig. 'sO{\g_lipsum_default_range_tl
+(LaTeX3)     }o' on line 223.
+
+
+LaTeX3 Info: Defining command \unpacklipsum with sig.
+(LaTeX3)     'sO{\g_lipsum_default_range_tl }o' on line 225.
+
+
+LaTeX3 Info: Defining command \SetLipsumText with sig. 'm' on line 326.
+
+
+LaTeX3 Info: Defining command \SetLipsumLanguage with sig. 'm' on line 328.
+
+
+LaTeX3 Info: Defining command \setlipsum with sig. '+m' on line 357.
+
+ (C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/linegoal\linegoal.sty
+Package: linegoal 2011/02/25 v2.9 - Measuring the remaining width of the line
+
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/etex-pkg\etex.sty
+Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
+\et@xins=\count191
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/zref\zref.sty
+Package: zref 2020-07-03 v2.32 A new reference scheme for LaTeX (HO)
+
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.st
+y
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+))
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/zref\zref-savepos.sty
+Package: zref-savepos 2020-07-03 v2.32 Module savepos for zref (HO)
+Package zref Info: New property list: savepos on input line 80.
+Package zref Info: New property: posx on input line 82.
+Package zref Info: New property: posy on input line 83.
+)
+Package zref Info: New property: linegoal on input line 39.
+\LNGL@unique=\count277
+\LNGL@tempdim=\dimen256
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/latex-tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/latex-tools\array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box48
+\extrarowheight=\dimen140
+\NC@list=\toks17
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box49
+)
+\TX@col@width=\dimen141
+\TX@old@table=\dimen142
+\TX@old@col=\dimen143
+\TX@target=\dimen144
+\TX@delta=\dimen145
+\TX@cols=\count192
+\TX@ftn=\toks18
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen146
+\WF@size=\dimen147
+\c@WF@wrappedlines=\count193
+\WF@box=\box50
+\WF@everypar=\toks19
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip51
+\thanksmargin=\skip52
+\droptitle=\skip53
+)
+(Assignment.aux)
+\openout1 = `Assignment.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen150
+\scratchbox=\box51
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen151
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\mathi\Documents\LaTeX\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Overfull \hbox (4.08653pt too wide) in paragraph at lines 26--26
+ [] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 26.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 32.
+<image.jpg, id=1, 268.75406pt x 144.54pt>
+File: image.jpg Graphic file (type jpg)
+<use image.jpg>
+Package pdftex.def Info: image.jpg  used on input line 40.
+(pdftex.def)             Requested size: 268.7534pt x 144.53963pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
+
+ []
+
+<image2.jpg, id=2, 268.75406pt x 144.54pt>
+File: image2.jpg Graphic file (type jpg)
+<use image2.jpg>
+Package pdftex.def Info: image2.jpg  used on input line 58.
+(pdftex.def)             Requested size: 268.7534pt x 144.53963pt.
+[1
+
+{C:/Users/mathi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./image.jpg
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 60--65
+
+ []
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 68.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 68.
+
+
+LaTeX Warning: Command \ae invalid in math mode on input line 68.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 68.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 68.
+
+Missing character: There is no ° in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no å in font cmr10!
+
+LaTeX Warning: Command \ae invalid in math mode on input line 69.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 69.
+
+
+LaTeX Warning: Command \ae invalid in math mode on input line 69.
+
+
+LaTeX Warning: Command \ae invalid in math mode on input line 69.
+
+Missing character: There is no æ in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no æ in font cmr10!
+[2 <./image2.jpg>] (Assignment.aux) ) 
+Here is how much of TeX's memory you used:
+ 2740 strings out of 479300
+ 44300 string characters out of 2858938
+ 417365 words of memory out of 3000000
+ 20157 multiletter control sequences out of 15000+200000
+ 411116 words of font info for 43 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 95i,6n,102p,291b,188s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/mathi/Documents/LaTeX/MiKTeX/fon
+ts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Users/mathi/Documents/LaTeX/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/mathi/Documents/LaTeX/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mathi/Documents/LaTeX/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/mathi/Documents/LaTeX/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mathi/Documents/LaTeX/MiKT
+eX/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/mathi/Documents/LaTeX/MiK
+TeX/fonts/type1/public/cm-super/sfbx1728.pfb><C:/Users/mathi/Documents/LaTeX/Mi
+KTeX/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Users/mathi/Documents/LaTeX/M
+iKTeX/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on Assignment.pdf (2 pages, 144704 bytes).
+PDF statistics:
+ 44 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
